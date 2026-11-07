@@ -52,3 +52,4 @@ class KioskTests(unittest.TestCase):
         self.assertEqual(receipt, loaded)
 
 
+ 
